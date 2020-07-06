@@ -1,0 +1,8 @@
+Known Issues with Archi
+=======================
+
+(1) If the content of the "Welcome" window does not display, maximize the "Welcome" window and click on the
+    "Home" button on the "Welcome" window's toolbar.
+  
+(2) For Mac installation issues please read the README! text file that ships with the Mac version.
+
